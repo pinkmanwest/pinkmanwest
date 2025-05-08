@@ -3,7 +3,7 @@
 
   <img src="https://media.tenor.com/5YNsHzJnEeEAAAAC/hello-there-general-kenobi.gif " width="100" alt="Приветствие"/>
 
-  <h1>👋 Привет, я username</h1>
+  <h1>👋 Привет, я pinkmanwest</h1>
   
   <p>Full-stack разработчик • Создаю сайты от дизайна до деплоя</p>
 
@@ -20,11 +20,11 @@
   <br><br>
 
   <!-- Статистика GitHub -->
-  <a href="https://github.com/username ">
+  <a href="https://github.com/pinkmanwest ">
     <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical " alt="Статистика GitHub" />
   </a>
 
-  <a href="https://github.com/username ">
+  <a href="https://github.com/pinkmanwest ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&langs_count=7&theme=radical " alt="Топ языков" />
   </a>
 
