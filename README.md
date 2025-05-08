@@ -1,9 +1,7 @@
 <!-- README.md -->
 <div align="center">
 
-  <img src="https://media.tenor.com/5YNsHzJnEeEAAAAC/hello-there-general-kenobi.gif " width="100" alt="Приветствие"/>
-
-  <h1>👋 Привет, я pinkmanwest</h1>
+  <h1>👋 pinkmanwest</h1>
   
   <p>Full-stack разработчик • Создаю PWA приложения</p>
 
@@ -41,25 +39,5 @@
   <img src="https://skillicons.dev/icons?i=nginx " width="24" alt="Nginx" />
 </div>
   <br><br>
-
-  <!-- Проекты -->
-  <h2>📦 Мои любимые проекты</h2>
-
-  <details>
-    <summary>🎮 GameHub (React + Node.js)</summary>
-    <p>Платформа для поиска и обсуждения видеоигр. Реализован REST API и клиентская часть.</p>
-    <a href="https://github.com/username/gamehub "><img src="https://img.shields.io/github/stars/username/gamehub?style=social " /></a>
-  </details>
-
-  <details>
-    <summary>🛒 MiniShop (Django)</summary>
-    <p>Мини интернет-магазин с админкой, корзиной и системой оплаты.</p>
-    <a href="https://github.com/username/minishop "><img src="https://img.shields.io/github/stars/username/minishop?style=social " /></a>
-  </details>
-
-  <br><br>
-
-  <!-- Подпись -->
-  <p>✨ Сделано с любовью к коду</p>
 
 </div>
