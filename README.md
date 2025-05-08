@@ -1,9 +1,8 @@
 <!-- README.md -->
 <div align="center">
-
-  <h1>👋 pinkmanwest</h1>
-  <p>Full-stack разработчик • Создаю PWA приложения</p>
-  <a href="https://t.me/username ">
+  <h1>👋 Pinkmanwest</h1>
+  <p>Progressive Web App Developer  • SEO Automation Specialist</p>
+  <a href="https://t.me/ ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white " />
   </a>
   <a href="mailto:your_email@example.com">
