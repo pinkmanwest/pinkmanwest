@@ -2,22 +2,16 @@
 <div align="center">
 
   <h1>👋 pinkmanwest</h1>
-  
   <p>Full-stack разработчик • Создаю PWA приложения</p>
-
   <a href="https://t.me/username ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white " />
   </a>
   <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
   </a>
-
-  <br><br>
-
   <!-- Технологии -->
  <h2>🛠️ Full-Stack Технологии</h2>
 <p>Мой основной стек инструментов для разработки:</p>
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=html " width="24" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css " width="24" alt="CSS" />
@@ -38,6 +32,4 @@
   <img src="https://skillicons.dev/icons?i=linux " width="24" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=nginx " width="24" alt="Nginx" />
 </div>
-  <br><br>
-
 </div>
