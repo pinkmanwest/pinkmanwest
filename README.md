@@ -31,9 +31,103 @@
   <br><br>
 
   <!-- Технологии -->
-  <h2>🛠️ Стек</h2>
-  <img src="https://skillicons.dev/icons?i=js ,ts,react,nodejs,express,python,django,html,css,git,github,docker,postgresql,redis,vue,nginx" />
+ <h2>🛠️ Full-Stack Технологии</h2>
+<p>Технологии, которые я использую на разных уровнях разработки:</p>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=html " width="48" alt="HTML" />
+    <p>HTML</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=css " width="48" alt="CSS" />
+    <p>CSS</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=javascript " width="48" alt="JavaScript" />
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=typescript " width="48" alt="TypeScript" />
+    <p>TypeScript</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=react " width="48" alt="React" />
+    <p>React</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=vue " width="48" alt="Vue.js" />
+    <p>Vue</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=angular " width="48" alt="Angular" />
+    <p>Angular</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=svelte " width="48" alt="Svelte" />
+    <p>Svelte</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nodejs " width="48" alt="Node.js" />
+    <p>Node.js</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=express " width="48" alt="Express" />
+    <p>Express</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=python " width="48" alt="Python" />
+    <p>Python</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=django " width="48" alt="Django" />
+    <p>Django</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=flask " width="48" alt="Flask" />
+    <p>Flask</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=postgres " width="48" alt="PostgreSQL" />
+    <p>PostgreSQL</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mysql " width="48" alt="MySQL" />
+    <p>MySQL</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mongodb " width="48" alt="MongoDB" />
+    <p>MongoDB</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=firebase " width="48" alt="Firebase" />
+    <p>Firebase</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=git " width="48" alt="Git" />
+    <p>Git</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=github " width="48" alt="GitHub" />
+    <p>GitHub</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=docker " width="48" alt="Docker" />
+    <p>Docker</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=linux " width="48" alt="Linux" />
+    <p>Linux</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nginx " width="48" alt="Nginx" />
+    <p>Nginx</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://skillicons.dev/icons?i=figma " width="48" alt="Figma" />
+    <p>Figma</p>
+  </div>
+</div>
   <br><br>
 
   <!-- Проекты -->
