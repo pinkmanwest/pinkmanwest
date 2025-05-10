@@ -2,9 +2,6 @@
 <div align="center">
   <h1>👋 Pinkmanwest</h1>
   <p>Progressive Web App Developer  • SEO Automation Specialist</p>
-  <a href="mailto:viner2aer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
-  </a>
   <a href="https://discord.com/users/s0sh0">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white " />
   </a>
