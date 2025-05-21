@@ -13,15 +13,9 @@
   <img src="https://skillicons.dev/icons?i=css " width="30" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript " width="30" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript " width="30" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react " width="30" alt="React" />
   <img src="https://skillicons.dev/icons?i=vue " width="30" alt="Vue" />
   <img src="https://skillicons.dev/icons?i=nodejs " width="30" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express " width="30" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=python " width="30" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django " width="30" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=postgres " width="30" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql " width="30" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb " width="30" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=git " width="30" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github " width="30" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=docker " width="30" alt="Docker" />
