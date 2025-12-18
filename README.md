@@ -6,8 +6,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white " />
   </a>
   <!-- Технологии -->
- <h2>🛠️ Full-Stack Технологии</h2>
-<p>Стек инструментов для разработки:</p>
+ <h2>🛠️ Full-Stack </h2>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=html " width="30" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css " width="30" alt="CSS" />
